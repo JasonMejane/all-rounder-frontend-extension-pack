@@ -1,6 +1,6 @@
 # All-Rounder Frontend Extension Pack
 
-An all-rounder extension pack for Frontend and Angular development, with handy extensions to increase productivity! 
+An all-rounder extension pack for Frontend and Angular development, with handy extensions to increase productivity and ease your work! 
 
 ## Extensions Included
 
@@ -39,4 +39,4 @@ An all-rounder extension pack for Frontend and Angular development, with handy e
 
 ## Want to see your extension added?
 
-Please open a PR and I will to take a look.
+Please open a PR and I will take a look :)
