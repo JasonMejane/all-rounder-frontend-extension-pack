@@ -1,0 +1,69 @@
+{
+  "name": "all-rounder-frontend-extension-pack",
+  "displayName": "All-Rounder Frontend Extension Pack",
+  "description": "An all-rounder extension pack for Frontend and Angular development, with handy extensions to increase productivity",
+  "version": "1.0.0",
+  "publisher": "JasonMejane",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "icon": "outline_widgets_white_48dp.png",
+  "galleryBanner": {
+    "color": "#004c8c",
+    "theme": "dark"
+  },
+  "keywords": [
+    "frontend",
+    "angular",
+    "node",
+    "nodejs",
+    "javascript",
+    "typescript"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JasonMejane/all-rounder-frontend-extension-pack"
+  },
+  "homepage": "https://github.com/JasonMejane/all-rounder-frontend-extension-pack",
+  "bugs": {
+    "email": "jason.mejane@gmail.com",
+    "url": "https://github.com/JasonMejane/all-rounder-frontend-extension-pack/issues"
+  },
+  "extensionDependencies": [
+    "angular.ng-template",
+    "asciidoctor.asciidoctor-vscode",
+    "Blodwynn.featurehighlight",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "DotJoshJohnson.xml",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "firefox-devtools.vscode-firefox-debug",
+    "fivethree.vscode-ionic-snippets",
+    "GitHub.vscode-pull-request-github",
+    "ionic-preview.ionic-preview",
+    "JasonMejane.base64viewer",
+    "jebbs.plantuml",
+    "johnpapa.angular2",
+    "johnpapa.vscode-peacock",
+    "johnpapa.winteriscoming",
+    "mohsen1.prettify-json",
+    "ms-vsliveshare.vsliveshare",
+    "msjsdiag.debugger-for-edge",
+    "natewallace.angular2-inline",
+    "nrwl.angular-console",
+    "pflannery.vscode-versionlens",
+    "pkief.material-icon-theme",
+    "rangav.vscode-thunder-client",
+    "timonwong.shellcheck",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "xabikos.javascriptsnippets",
+    "yzhang.markdown-all-in-one"
+  ]
+}
